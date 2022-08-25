@@ -8,7 +8,7 @@
 
 <br />
 
-I am **Yash Tomar** . a Tech enthusiast. I love to build apps that are interesting and useful.
+I am **Yash Tomar** . a Tech enthusiast. I love to build apps that are meaningful and useful.
 
 🌱 I’m currently learning **MERN Stack And DSA.**
 <br />
