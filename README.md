@@ -37,12 +37,12 @@ Visit my <a href="https://yash-tomar.netlify.app/">Portfolio</a> for more detail
 
 
 # 📊GitHub Stats :
-<a href="https://github.com/yashtoamr15"><img src="https://github-readme-stats.vercel.app/api?username=yashtomar15&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="yashtoamr15 GitHub stats" /></a>
+<a href="[https://github.com/yashtomar15](https://github-readme-stats.vercel.app/api?username=yashtomar15)" target="_"><img src="https://github-readme-stats.vercel.app/api?username=yashtomar15&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="yashtoamr15 GitHub stats" /></a>
 
-<a href="https://github.com/yashtomar15"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yashtomar15&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=yashtomar15" target="_"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yashtomar15&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-<a href="https://github.com/yashtomar15" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtomar15&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtomar15" align="left" target="_"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashtomar15&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ---
 <br />
 
