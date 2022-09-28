@@ -10,11 +10,13 @@
 
 I am **Yash Tomar** . a Tech enthusiast. I love to build apps that are meaningful and useful.
 
-🌱 I’m currently learning **MERN Stack And DSA.**
+🌱 I’m currently learning **Typescript.**
 <br />
 ⚡ I enjoy learning tech stacks and built useful apps.
 <br />
 🌱 I’m actively looking for opportunities.
+<br />
+🌱 Ask me about HTML,CSS,Javascript,MERN,and DSA.
 
 #### ⚡ One line that describes me best? 
 
