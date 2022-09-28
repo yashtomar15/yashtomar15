@@ -16,7 +16,7 @@ I am **Yash Tomar** . a Tech enthusiast. I love to build apps that are meaningfu
 <br />
 🌱 I’m actively looking for opportunities.
 <br />
-🌱 Ask me about HTML,CSS,Javascript,MERN,and DSA.
+🌱 Ask me about **HTML,CSS,Javascript,MERN,and DSA**.
 
 #### ⚡ One line that describes me best? 
 
