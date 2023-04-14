@@ -12,7 +12,7 @@ I am **Yash Tomar** . a Tech enthusiast. I love to build apps that are meaningfu
 
 🌱 I’m currently learning **Nextjs.**
 <br />
-⚡ I enjoy learning tech stacks and built useful apps.
+⚡ I enjoy learning tech stacks and building meaningfull websites.
 <br />
 🌱 I’m actively looking for opportunities.
 <br />
